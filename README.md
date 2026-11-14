@@ -1,0 +1,1 @@
+This is the solution for the dice-posterior assignment in Michael Brent's course CSE5807 at Washington University. It also forms the template from which the assignment distribution is made.
